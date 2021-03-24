@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @VitorJunges
-- 👀 I’m interested in UX
+- About Me
 - 🌱 I’m currently learning HTML,CSS,JS
 - 📫 How to reach me jungesvitor@gmail.com
 
